@@ -1,6 +1,7 @@
 # Classification-Model
 
 Steps:
+
 1.Preprocessing data by checking for uneveness in the data and the missing values.
 
 2.Converting categorical data into numerical data.
